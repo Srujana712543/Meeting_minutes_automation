@@ -1,0 +1,6 @@
+Setup Instructions
+
+	1.	SharePoint: Ensure two SharePoint folders are set up, one for storing meeting transcripts and the other for storing the generated meeting minutes.
+	2.	Power Automate: Import the .zip file containing the flow definition into your environment.
+	3.	Azure OpenAI: Configure the Azure OpenAI API connection with valid API keys.
+	4.	Modify Flow: You can adjust parameters like SharePoint folder names or email addresses according to your needs.
